@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>local.wanfailover</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/yoni/Projects/internet_connectivity_monitor/wan-failover.sh</string>
+    </array>
+
+    <!-- start at boot -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <!-- restart automatically if it ever exits or is killed -->
+    <key>KeepAlive</key>
+    <true/>
+
+    <!-- crash/error output, separate from the script's own log -->
+    <key>StandardErrorPath</key>
+    <string>/Users/yoni/Projects/internet_connectivity_monitor/wan-failover.err</string>
+
+    <key>StandardOutPath</key>
+    <string>/Users/yoni/Projects/internet_connectivity_monitor/wan-failover.out</string>
+</dict>
+</plist>
