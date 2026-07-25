@@ -30,3 +30,377 @@
 [2026-07-22 16:23:53] FAILOVER -> tether (en4 via 10.188.212.20)
 [2026-07-22 16:24:53] RESTORE -> wifi (en0 via 192.168.68.1)
 [2026-07-22 16:24:53] wifi upstream healthy again (outage ~61s)
+[2026-07-22 16:46:09] monitor started (wifi=en0 tether-service='Pixel 9a')
+[2026-07-22 16:46:45] tether present at startup (en4)
+[2026-07-22 16:46:49] wifi upstream dead (2 consecutive failures)
+[2026-07-22 16:46:49] FAILOVER -> tether (en4 via 10.188.212.20)
+[2026-07-22 16:47:48] RESTORE -> wifi (en0 via 192.168.68.1)
+[2026-07-22 16:47:49] wifi upstream healthy again (outage ~60s)
+[2026-07-22 20:03:24] wifi upstream dead (2 consecutive failures)
+[2026-07-22 20:03:24] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:26] wifi upstream dead (3 consecutive failures)
+[2026-07-22 20:03:26] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:28] wifi upstream dead (4 consecutive failures)
+[2026-07-22 20:03:28] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:30] wifi upstream dead (5 consecutive failures)
+[2026-07-22 20:03:30] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:32] wifi upstream dead (6 consecutive failures)
+[2026-07-22 20:03:32] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:34] wifi upstream dead (7 consecutive failures)
+[2026-07-22 20:03:34] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:36] wifi upstream dead (8 consecutive failures)
+[2026-07-22 20:03:36] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:37] wifi upstream dead (9 consecutive failures)
+[2026-07-22 20:03:37] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:39] wifi upstream dead (10 consecutive failures)
+[2026-07-22 20:03:39] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:41] wifi upstream dead (11 consecutive failures)
+[2026-07-22 20:03:41] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:43] wifi upstream dead (12 consecutive failures)
+[2026-07-22 20:03:43] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:45] wifi upstream dead (13 consecutive failures)
+[2026-07-22 20:03:45] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:47] wifi upstream dead (14 consecutive failures)
+[2026-07-22 20:03:47] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:49] wifi upstream dead (15 consecutive failures)
+[2026-07-22 20:03:49] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:51] wifi upstream dead (16 consecutive failures)
+[2026-07-22 20:03:51] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:52] wifi upstream dead (17 consecutive failures)
+[2026-07-22 20:03:52] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:54] wifi upstream dead (18 consecutive failures)
+[2026-07-22 20:03:54] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:56] wifi upstream dead (19 consecutive failures)
+[2026-07-22 20:03:56] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:03:58] wifi upstream dead (20 consecutive failures)
+[2026-07-22 20:03:58] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:00] wifi upstream dead (21 consecutive failures)
+[2026-07-22 20:04:00] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:02] wifi upstream dead (22 consecutive failures)
+[2026-07-22 20:04:02] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:04] wifi upstream dead (23 consecutive failures)
+[2026-07-22 20:04:04] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:06] wifi upstream dead (24 consecutive failures)
+[2026-07-22 20:04:06] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:08] wifi upstream dead (25 consecutive failures)
+[2026-07-22 20:04:08] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:09] wifi upstream dead (26 consecutive failures)
+[2026-07-22 20:04:09] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:11] wifi upstream dead (27 consecutive failures)
+[2026-07-22 20:04:11] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:13] wifi upstream dead (28 consecutive failures)
+[2026-07-22 20:04:13] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:15] wifi upstream dead (29 consecutive failures)
+[2026-07-22 20:04:15] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:17] wifi upstream dead (30 consecutive failures)
+[2026-07-22 20:04:17] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:19] wifi upstream dead (31 consecutive failures)
+[2026-07-22 20:04:19] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:21] wifi upstream dead (32 consecutive failures)
+[2026-07-22 20:04:21] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:23] wifi upstream dead (33 consecutive failures)
+[2026-07-22 20:04:23] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:25] wifi upstream dead (34 consecutive failures)
+[2026-07-22 20:04:25] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:27] wifi upstream dead (35 consecutive failures)
+[2026-07-22 20:04:27] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:28] wifi upstream dead (36 consecutive failures)
+[2026-07-22 20:04:29] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:30] wifi upstream dead (37 consecutive failures)
+[2026-07-22 20:04:30] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:32] wifi upstream dead (38 consecutive failures)
+[2026-07-22 20:04:32] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:34] wifi upstream dead (39 consecutive failures)
+[2026-07-22 20:04:34] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:36] wifi upstream dead (40 consecutive failures)
+[2026-07-22 20:04:36] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:38] wifi upstream dead (41 consecutive failures)
+[2026-07-22 20:04:38] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:40] wifi upstream dead (42 consecutive failures)
+[2026-07-22 20:04:40] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:41] wifi upstream dead (43 consecutive failures)
+[2026-07-22 20:04:41] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:43] wifi upstream dead (44 consecutive failures)
+[2026-07-22 20:04:43] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:45] wifi upstream dead (45 consecutive failures)
+[2026-07-22 20:04:45] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:47] wifi upstream dead (46 consecutive failures)
+[2026-07-22 20:04:47] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:49] wifi upstream dead (47 consecutive failures)
+[2026-07-22 20:04:49] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:51] wifi upstream dead (48 consecutive failures)
+[2026-07-22 20:04:51] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:52] wifi upstream dead (49 consecutive failures)
+[2026-07-22 20:04:52] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:54] wifi upstream dead (50 consecutive failures)
+[2026-07-22 20:04:54] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:56] wifi upstream dead (51 consecutive failures)
+[2026-07-22 20:04:56] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:04:58] wifi upstream dead (52 consecutive failures)
+[2026-07-22 20:04:58] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:00] wifi upstream dead (53 consecutive failures)
+[2026-07-22 20:05:00] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:02] wifi upstream dead (54 consecutive failures)
+[2026-07-22 20:05:02] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:04] wifi upstream dead (55 consecutive failures)
+[2026-07-22 20:05:04] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:05] wifi upstream dead (56 consecutive failures)
+[2026-07-22 20:05:05] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:07] wifi upstream dead (57 consecutive failures)
+[2026-07-22 20:05:07] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:09] wifi upstream dead (58 consecutive failures)
+[2026-07-22 20:05:09] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:11] wifi upstream dead (59 consecutive failures)
+[2026-07-22 20:05:11] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:13] wifi upstream dead (60 consecutive failures)
+[2026-07-22 20:05:13] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:15] wifi upstream dead (61 consecutive failures)
+[2026-07-22 20:05:15] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:16] wifi upstream dead (62 consecutive failures)
+[2026-07-22 20:05:16] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:18] wifi upstream dead (63 consecutive failures)
+[2026-07-22 20:05:18] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:20] wifi upstream dead (64 consecutive failures)
+[2026-07-22 20:05:20] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:22] wifi upstream dead (65 consecutive failures)
+[2026-07-22 20:05:22] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:24] wifi upstream dead (66 consecutive failures)
+[2026-07-22 20:05:24] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:26] wifi upstream dead (67 consecutive failures)
+[2026-07-22 20:05:26] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:28] wifi upstream dead (68 consecutive failures)
+[2026-07-22 20:05:28] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:30] wifi upstream dead (69 consecutive failures)
+[2026-07-22 20:05:30] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:31] wifi upstream dead (70 consecutive failures)
+[2026-07-22 20:05:31] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:33] wifi upstream dead (71 consecutive failures)
+[2026-07-22 20:05:33] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:35] wifi upstream dead (72 consecutive failures)
+[2026-07-22 20:05:35] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:37] wifi upstream dead (73 consecutive failures)
+[2026-07-22 20:05:37] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:39] wifi upstream dead (74 consecutive failures)
+[2026-07-22 20:05:39] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:41] wifi upstream dead (75 consecutive failures)
+[2026-07-22 20:05:41] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:43] wifi upstream dead (76 consecutive failures)
+[2026-07-22 20:05:43] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:44] wifi upstream dead (77 consecutive failures)
+[2026-07-22 20:05:44] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:46] wifi upstream dead (78 consecutive failures)
+[2026-07-22 20:05:46] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:48] wifi upstream dead (79 consecutive failures)
+[2026-07-22 20:05:48] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:50] wifi upstream dead (80 consecutive failures)
+[2026-07-22 20:05:50] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:52] wifi upstream dead (81 consecutive failures)
+[2026-07-22 20:05:52] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:54] wifi upstream dead (82 consecutive failures)
+[2026-07-22 20:05:54] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:56] wifi upstream dead (83 consecutive failures)
+[2026-07-22 20:05:56] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:58] wifi upstream dead (84 consecutive failures)
+[2026-07-22 20:05:58] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:05:59] wifi upstream dead (85 consecutive failures)
+[2026-07-22 20:05:59] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:01] wifi upstream dead (86 consecutive failures)
+[2026-07-22 20:06:01] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:03] wifi upstream dead (87 consecutive failures)
+[2026-07-22 20:06:03] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:05] wifi upstream dead (88 consecutive failures)
+[2026-07-22 20:06:05] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:07] wifi upstream dead (89 consecutive failures)
+[2026-07-22 20:06:07] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:08] wifi upstream dead (90 consecutive failures)
+[2026-07-22 20:06:08] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:10] wifi upstream dead (91 consecutive failures)
+[2026-07-22 20:06:10] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:12] wifi upstream dead (92 consecutive failures)
+[2026-07-22 20:06:12] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:14] wifi upstream dead (93 consecutive failures)
+[2026-07-22 20:06:14] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:16] wifi upstream dead (94 consecutive failures)
+[2026-07-22 20:06:16] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:18] wifi upstream dead (95 consecutive failures)
+[2026-07-22 20:06:18] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:20] wifi upstream dead (96 consecutive failures)
+[2026-07-22 20:06:20] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:21] wifi upstream dead (97 consecutive failures)
+[2026-07-22 20:06:21] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:23] wifi upstream dead (98 consecutive failures)
+[2026-07-22 20:06:23] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:25] wifi upstream dead (99 consecutive failures)
+[2026-07-22 20:06:25] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:27] wifi upstream dead (100 consecutive failures)
+[2026-07-22 20:06:27] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:29] wifi upstream dead (101 consecutive failures)
+[2026-07-22 20:06:29] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:31] wifi upstream dead (102 consecutive failures)
+[2026-07-22 20:06:31] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:32] wifi upstream dead (103 consecutive failures)
+[2026-07-22 20:06:32] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:34] wifi upstream dead (104 consecutive failures)
+[2026-07-22 20:06:34] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:36] wifi upstream dead (105 consecutive failures)
+[2026-07-22 20:06:36] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:38] wifi upstream dead (106 consecutive failures)
+[2026-07-22 20:06:38] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:40] wifi upstream dead (107 consecutive failures)
+[2026-07-22 20:06:40] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:42] wifi upstream dead (108 consecutive failures)
+[2026-07-22 20:06:42] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:43] wifi upstream dead (109 consecutive failures)
+[2026-07-22 20:06:44] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:45] wifi upstream dead (110 consecutive failures)
+[2026-07-22 20:06:45] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:47] wifi upstream dead (111 consecutive failures)
+[2026-07-22 20:06:47] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:49] wifi upstream dead (112 consecutive failures)
+[2026-07-22 20:06:49] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:51] wifi upstream dead (113 consecutive failures)
+[2026-07-22 20:06:51] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:53] wifi upstream dead (114 consecutive failures)
+[2026-07-22 20:06:53] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:54] wifi upstream dead (115 consecutive failures)
+[2026-07-22 20:06:54] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:56] wifi upstream dead (116 consecutive failures)
+[2026-07-22 20:06:56] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:06:58] wifi upstream dead (117 consecutive failures)
+[2026-07-22 20:06:58] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:00] wifi upstream dead (118 consecutive failures)
+[2026-07-22 20:07:00] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:02] wifi upstream dead (119 consecutive failures)
+[2026-07-22 20:07:02] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:04] wifi upstream dead (120 consecutive failures)
+[2026-07-22 20:07:04] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:06] wifi upstream dead (121 consecutive failures)
+[2026-07-22 20:07:06] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:07] wifi upstream dead (122 consecutive failures)
+[2026-07-22 20:07:07] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:09] wifi upstream dead (123 consecutive failures)
+[2026-07-22 20:07:09] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:11] wifi upstream dead (124 consecutive failures)
+[2026-07-22 20:07:11] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:13] wifi upstream dead (125 consecutive failures)
+[2026-07-22 20:07:13] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:15] wifi upstream dead (126 consecutive failures)
+[2026-07-22 20:07:15] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:16] wifi upstream dead (127 consecutive failures)
+[2026-07-22 20:07:16] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:18] wifi upstream dead (128 consecutive failures)
+[2026-07-22 20:07:18] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:20] wifi upstream dead (129 consecutive failures)
+[2026-07-22 20:07:20] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 20:07:22] wifi upstream dead (130 consecutive failures)
+[2026-07-22 20:07:22] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:22] wifi upstream dead (2 consecutive failures)
+[2026-07-22 21:59:22] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:24] wifi upstream dead (3 consecutive failures)
+[2026-07-22 21:59:24] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:26] wifi upstream dead (4 consecutive failures)
+[2026-07-22 21:59:26] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:27] wifi upstream dead (5 consecutive failures)
+[2026-07-22 21:59:27] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:29] wifi upstream dead (6 consecutive failures)
+[2026-07-22 21:59:29] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:31] wifi upstream dead (7 consecutive failures)
+[2026-07-22 21:59:31] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:33] wifi upstream dead (8 consecutive failures)
+[2026-07-22 21:59:33] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:35] wifi upstream dead (9 consecutive failures)
+[2026-07-22 21:59:35] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:37] wifi upstream dead (10 consecutive failures)
+[2026-07-22 21:59:37] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:39] wifi upstream dead (11 consecutive failures)
+[2026-07-22 21:59:39] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:40] wifi upstream dead (12 consecutive failures)
+[2026-07-22 21:59:40] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:42] wifi upstream dead (13 consecutive failures)
+[2026-07-22 21:59:42] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:44] wifi upstream dead (14 consecutive failures)
+[2026-07-22 21:59:44] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:46] wifi upstream dead (15 consecutive failures)
+[2026-07-22 21:59:46] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:48] wifi upstream dead (16 consecutive failures)
+[2026-07-22 21:59:48] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:50] wifi upstream dead (17 consecutive failures)
+[2026-07-22 21:59:50] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:51] wifi upstream dead (18 consecutive failures)
+[2026-07-22 21:59:51] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:53] wifi upstream dead (19 consecutive failures)
+[2026-07-22 21:59:53] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:55] wifi upstream dead (20 consecutive failures)
+[2026-07-22 21:59:55] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:57] wifi upstream dead (21 consecutive failures)
+[2026-07-22 21:59:57] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 21:59:59] wifi upstream dead (22 consecutive failures)
+[2026-07-22 21:59:59] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 22:00:01] wifi upstream dead (23 consecutive failures)
+[2026-07-22 22:00:01] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 22:00:03] wifi upstream dead (24 consecutive failures)
+[2026-07-22 22:00:03] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 22:00:05] wifi upstream dead (25 consecutive failures)
+[2026-07-22 22:00:05] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 22:00:07] wifi upstream dead (26 consecutive failures)
+[2026-07-22 22:00:07] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 22:00:08] wifi upstream dead (27 consecutive failures)
+[2026-07-22 22:00:08] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 22:00:10] wifi upstream dead (28 consecutive failures)
+[2026-07-22 22:00:10] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 22:00:12] wifi upstream dead (29 consecutive failures)
+[2026-07-22 22:00:12] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-22 22:00:14] wifi upstream dead (30 consecutive failures)
+[2026-07-22 22:00:14] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-23 12:12:20] wifi upstream dead (2 consecutive failures)
+[2026-07-23 12:12:20] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-23 12:12:26] wifi upstream dead (2 consecutive failures)
+[2026-07-23 12:12:26] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-23 12:52:30] wifi upstream dead (2 consecutive failures)
+[2026-07-23 12:52:31] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-23 12:52:32] wifi upstream dead (3 consecutive failures)
+[2026-07-23 12:52:32] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-23 12:52:34] wifi upstream dead (4 consecutive failures)
+[2026-07-23 12:52:34] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 03:56:47] wifi upstream dead (2 consecutive failures)
+[2026-07-24 03:56:47] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 09:03:08] wifi upstream dead (2 consecutive failures)
+[2026-07-24 09:03:08] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 09:03:10] wifi upstream dead (3 consecutive failures)
+[2026-07-24 09:03:10] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 09:03:16] wifi upstream dead (2 consecutive failures)
+[2026-07-24 09:03:16] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 09:03:22] wifi upstream dead (2 consecutive failures)
+[2026-07-24 09:03:22] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 10:51:07] wifi upstream dead (2 consecutive failures)
+[2026-07-24 10:51:07] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 10:51:12] wifi upstream dead (2 consecutive failures)
+[2026-07-24 10:51:12] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 10:51:14] wifi upstream dead (3 consecutive failures)
+[2026-07-24 10:51:14] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 10:51:16] wifi upstream dead (4 consecutive failures)
+[2026-07-24 10:51:16] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 10:51:18] wifi upstream dead (5 consecutive failures)
+[2026-07-24 10:51:18] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 10:51:20] wifi upstream dead (6 consecutive failures)
+[2026-07-24 10:51:20] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 10:51:22] wifi upstream dead (7 consecutive failures)
+[2026-07-24 10:51:22] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 10:51:24] wifi upstream dead (8 consecutive failures)
+[2026-07-24 10:51:24] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 11:25:21] wifi upstream dead (2 consecutive failures)
+[2026-07-24 12:13:16] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 12:13:19] wifi upstream dead (3 consecutive failures)
+[2026-07-24 12:13:19] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 16:55:39] wifi upstream dead (2 consecutive failures)
+[2026-07-24 17:05:08] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-24 18:46:51] monitor started (wifi=en0 tether-service='Pixel 9a')
+[2026-07-24 18:46:53] tether present at startup (en4)
+[2026-07-24 18:46:57] wifi upstream dead (2 consecutive failures)
+[2026-07-24 18:46:57] FAILOVER -> tether (en4 via 10.188.212.20)
+[2026-07-24 18:47:44] RESTORE -> wifi (en0 via 192.168.68.1)
+[2026-07-24 18:47:44] wifi upstream healthy again (outage ~47s)
+[2026-07-24 22:22:33] wifi upstream dead (2 consecutive failures)
+[2026-07-24 22:22:34] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-25 12:09:13] wifi upstream dead (2 consecutive failures)
+[2026-07-25 12:09:14] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
