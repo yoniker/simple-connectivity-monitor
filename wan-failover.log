@@ -408,3 +408,17 @@
 [2026-07-26 04:08:21] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
 [2026-07-26 12:12:17] wifi upstream dead (2 consecutive failures)
 [2026-07-26 12:12:17] ERROR: tether service 'Pixel 9a' not found — is the Pixel plugged in and USB tethering on?
+[2026-07-26 18:02:20] wifi upstream dead (2 consecutive failures)
+[2026-07-27 03:24:21] monitor started (wifi=en0 tether-service='Pixel 9a')
+[2026-07-27 03:24:22] note: tether not present at startup — failover unavailable until the Pixel is plugged in and tethering
+[2026-07-27 03:24:26] wifi upstream dead (2 consecutive failures)
+[2026-07-27 03:54:46] monitor started (wifi=en0 tether-service='Pixel 9a')
+[2026-07-27 03:54:47] note: tether not present at startup — failover unavailable until the Pixel is plugged in and tethering
+[2026-07-27 03:54:50] wifi upstream dead (2 consecutive failures)
+[2026-07-27 06:43:00] wifi upstream dead (2 consecutive failures)
+[2026-07-27 23:59:45] wifi upstream dead (2 consecutive failures)
+[2026-07-28 12:06:19] wifi upstream dead (2 consecutive failures)
+[2026-07-28 15:34:39] wifi upstream dead (2 consecutive failures)
+[2026-07-28 15:42:07] wifi upstream dead (2 consecutive failures)
+[2026-07-28 18:04:11] wifi upstream dead (2 consecutive failures)
+[2026-07-28 19:59:43] wifi upstream dead (2 consecutive failures)
